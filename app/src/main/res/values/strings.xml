@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="_0">0</string>
+    <string name="stop_watch">Stop Watch</string>
+    <string name="button">Button</string>
+    <string name="start">start</string>
+    <string name="slot_machine">Slot Machine</string>
+</resources>
